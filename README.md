@@ -1,1 +1,1 @@
-# SCT-Scripts
+This repository contains various scripts in VBA language for creating models in the CST Microwave Studio software package.
